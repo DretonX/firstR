@@ -1,0 +1,8 @@
+.idea/
+venv/
+__pycach__/
+**/main/migrations/**/*.*
+**/__init__.py
+**/test/**/*.html
+db.sqlite3
+identifier.sqlite
